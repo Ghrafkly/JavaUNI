@@ -1,0 +1,4 @@
+Kick,Damage,20
+Punch,Damage,10
+Cheat,Damage,40
+Block,Defense,0.5
