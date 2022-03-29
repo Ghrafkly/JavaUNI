@@ -1,4 +1,0 @@
-Double Punch,Damage,15
-Double Kick,Damage,30
-Double Heal,Health,20
-Bribed Referee,Health,-50
